@@ -6,5 +6,5 @@ Funcionalidades do site: Mostrar sobre a competição, pilotos, euipes, campeona
 Usuário Administrador: gerencia os posts e o site
 Usuário Logado:cria, deleta e modifica posts
 Usuário Visitante:só visualiza o site
-Mapa de Navegação: 
-Wireframe:
+Mapa de Navegação: http://imgur.com/a/JqkVD
+Wireframe: http://imgur.com/a/CZ7OE
